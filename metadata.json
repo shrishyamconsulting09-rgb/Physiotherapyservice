@@ -1,0 +1,8 @@
+{
+  "name": "PhysioTracker - Daily Physiotherapy Visit Management",
+  "description": "Clinical daily visit management and patient rehabilitation tracking for physiotherapists with SOAP notes, treatment planning, and home visit itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
